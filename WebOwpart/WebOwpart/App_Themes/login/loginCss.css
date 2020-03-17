@@ -1,0 +1,18 @@
+﻿body {
+background-color: #F5EFE8;
+}
+a{
+    text-decoration:none;
+    color:black;
+
+}
+a:hover{
+    cursor:pointer;
+}
+.boton_res{
+    border: 1px solid #DDE0E3;
+    color: #6D2985;
+    font-size:16px;
+    border-radius:50px;
+    background-color: #F9F9FF;
+}
